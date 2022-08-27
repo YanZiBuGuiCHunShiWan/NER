@@ -1,0 +1,2 @@
+NER_TYPES = ('ORG', 'PER', 'LOC', 'TIME')
+MODEL_TYPES = ('CRF',)
